@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 class Person {
-private:
+protected:
   std::string name;
   std::string address;
 
